@@ -1,0 +1,15 @@
+# Final-Capstone-Project
+Recommend the place to live in Phoenix Area by analyzing house price and venues data
+A. Introduction
+A.1. Description of Background and Problem
+A.1.1. 
+The United States economy is on the brink of hitting its longest-lasting period of growth ever — but no one can quite get the idea of a coming recession out of their heads. Several signals such as inverted yield curve and lead economic index has turn red, which making most people afraid that depression will not be too far.
+During the recession, many economic elements, which intimately related to people's lives, such as gas price, traffic, salary, employment, have been greatly affected. The house price belongs to one of these economic elements. During last recession, the house price reached the peak and sharply dropped after the recession began.
+A.1.2.
+I love the place I live in the Columbus, Ohio. But I will move to Arizona, Phoenix Area. I plan to own a house, whether by renting or purchasing, and I hope that the community environment of the house, in which I will live, are pretty the same as I’m living right now. I hope the price of the house I will buy or long rent won’t drop significant during recession.
+A.2. Data Description
+To consider the problem we can list the data as below:
+1. House price data: will use the Five-Digit ZIP Codes Annual House Price Indexes (Developmental Index; Not Seasonally Adjusted) to represent the house price.
+2. US zip code with some basic data
+3. Venues data: will use Foursquare API to get the most common venues of given Zip code of Phoenix Area and Columbus.
+
